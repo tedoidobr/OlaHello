@@ -1,0 +1,2 @@
+# Hello-Java
+Como reza a lenda de que o programador iniciante que não fizer em seu primeiro código um simples “Hello, World! / Olá Mundo!” não conseguirá entender sobre programação, fazer em mais de um idioma pode ajudar 😂😂😂, não sou eu que vai quebrar esse mito. Esta aqui disponivel o Hello, World! Olá Mundo!
